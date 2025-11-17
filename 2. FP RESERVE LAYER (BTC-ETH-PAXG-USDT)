@@ -1,0 +1,13 @@
+┌──────────────────────────────────────────────┐
+│  FLOOR PRICE (FP) RESERVE                    │
+│  • BTC allocation                             │
+│  • ETH allocation                             │
+│  • PAXG allocation                            │
+│  • USDT allocation                            │
+└──────────────────────────────────────────────┘
+            │
+            ▼
+Auto-Rebalancing Engine ← AI Rebalancer
+            │
+            ▼
+Ensures each asset stays at target % (MCW)
