@@ -1,0 +1,14 @@
+     User Buys ACROWN
+            │
+            ▼
+  ┌─────────────────────┐
+  │ Token Sale Module   │
+  └─────────────────────┘
+            │
+  Converts user payment
+  into BTC + ETH + PAXG + USDT
+            │
+            ▼
+  ┌─────────────────────┐
+  │ Floor Price Reserve │  ← (FP Reserve)
+  └─────────────────────┘
