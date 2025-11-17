@@ -1,0 +1,13 @@
+┌───────────────────────────────────────────────┐
+│  Price & Execution Control Layer              │
+│  • FP (Floor Price)                           │
+│  • RP (Release Price) = FP + 20%              │
+│  • TP (Top Price) = FP + 35%                  │
+│                                               │
+│  AI Computes:                                 │
+│  • Rebalance events                           │
+│  • Crash triggers                              │
+│  • Gas-fee allowed thresholds                 │
+│  • Minimum viable trade sizes                 │
+│  • Skip conditions if gas too high            │
+└───────────────────────────────────────────────┘
