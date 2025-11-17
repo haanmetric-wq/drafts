@@ -1,0 +1,6 @@
+┌──────────────────────────────────────────┐
+│ MCW INSURANCE LAYER                      │
+│ • Receives % of Paymaster profit         │
+│ • Receives overflow from FP growth       │
+│ • Used only for severe crash defense     │
+└──────────────────────────────────────────┘
