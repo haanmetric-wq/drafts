@@ -1,0 +1,37 @@
+[USERS] 
+   │ buy tokens, pay fees
+   ▼
+╔═══════════════════════════════╗
+║   TOKEN SALE (public release) ║
+╚═══════════════════════════════╝
+   │ BTC/ETH/PAXG/USDT inflow
+   ▼
+╔═══════════════════════════════╗
+║        FP RESERVE             ║
+║  core stability & buyback     ║
+╚═══════════════════════════════╝
+   │ auto-rebalance
+   ▼
+╔═══════════════════════════════╗
+║          MCW LAYER            ║
+║  extreme crash insurance      ║
+╚═══════════════════════════════╝
+   ▲           │
+   │           │ receives %
+   │           ▼
+╔═══════════════════════════════╗
+║       PAYMASTER PROFIT        ║
+║  fees collected in ACROWN     ║
+║  ACROWN sold near TP          ║
+║  profits split to FP/MCW/UBI  ║
+╚═══════════════════════════════╝
+   ▲
+   │ usage ↑
+   │
+╔═══════════════════════════════╗
+║        ECOSYSTEM              ║
+║  R&D, UBI, Apps, Governance   ║
+╚═══════════════════════════════╝
+
+    System Flywheel:
+ Adoption ↑ → Paymaster ↑ → Profit ↑ → FP ↑ → MCW ↑ → Stability ↑ → Adoption ↑
