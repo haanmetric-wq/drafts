@@ -1,0 +1,21 @@
+User Pays Fees in ACROWN
+            │
+            ▼
+┌────────────────────────────┐
+│ Paymaster Settlement Layer │
+└────────────────────────────┘
+            │
+ACROWN sold near Roof Price (TP)
+            │
+Profit Extracted:
+            ▼
+┌──────────────────────────────┐
+│ Profit Allocation Engine     │
+│ • Ops costs covered          │
+│ • Remainder split into:     │
+│   - FP Reserve               │
+│   - MCW Insurance            │
+│   - UBI / Verified Member    │
+│   - Space Empire R&D         │
+│   - Administration           │
+└──────────────────────────────┘
